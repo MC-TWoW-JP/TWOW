@@ -1,0 +1,225 @@
+{
+  "neoadvancement:2/end": {
+    "criteria": {
+      "dummy": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:10/def/end": {
+    "criteria": {
+      "dummy": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:10/atk/end": {
+    "criteria": {
+      "dummy": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:2/root": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:6/tree_melee": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:13/root": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:19/root": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:4/root": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:1/end": {
+    "criteria": {
+      "dummy": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:8/root": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:6/tree_passive": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:6/tree_other": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:9/root": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:3/root": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:11/trait/trait_abilities": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:11/passive/passive_abilities": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:12/root": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:6/tree_tool": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:10/hp/end": {
+    "criteria": {
+      "dummy": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:13/tree_positive": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:6/other/unbreakable": {
+    "criteria": {
+      "found": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:1/root": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:11/active/active_abilities": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:13/tree_positive_end": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:7/root": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:10/root": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:6/root": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:13/tree_negative_end": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:5/root": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:6/tree_ranged": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:11/death/death_abilities": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:10/sp/end": {
+    "criteria": {
+      "requirement": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:6/tree_curse": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:13/tree_negative": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:11/root": {
+    "criteria": {
+      "tick": "2023-08-29 21:08:01 +0900"
+    },
+    "done": true
+  },
+  "neoadvancement:2/3": {
+    "criteria": {
+      "requirement": "2023-08-29 21:08:02 +0900"
+    },
+    "done": true
+  },
+  "neofunction:location/hello_world": {
+    "criteria": {
+      "enter": "2023-08-29 21:08:02 +0900"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
